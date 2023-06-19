@@ -44,7 +44,7 @@ Conclusions from Analysis
 
 * There is much larger number of rating for 5 and also 4, as compared to 3, indicating favourable customer experience.
 
-**Recommendations to Help Improve Business(Cuisine Type and Feedback Ratings)**
+**Recommendations to Help Improve Business (Cuisine Type and Feedback Ratings)**
 
 * Efficient food preparation and smooth delivery need to be ensured especially for American cuisine on weekend, and also orders for restaurants, Shake Shack, The Meatball Shop, Blue Ribbon Sushi, Blue Ribbon Fried Chicken and Parm.
 
